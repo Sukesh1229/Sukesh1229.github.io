@@ -4,7 +4,7 @@
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
-<h3 align="center">A passionate and enthusiastic Frontend developer with good googling skills.</h3>
+<h3 align="center" style="font-family:italic;">A passionate and enthusiastic Frontend developer with good googling skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukesh1229&label=Profile%20views&color=0e75b6&style=flat" alt="sukesh1229" /> </p>
 
