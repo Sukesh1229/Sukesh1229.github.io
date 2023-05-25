@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>Sukesh</title>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sukeshkumarsuki@gmail.com**<br>
 
-- 📄 Know about my experiences [https://purple-estel-4.tiiny.site/](https://purple-estel-4.tiiny.site/)<br>
+- 📄 Know about my experiences [https://purple-estel-4.tiiny.site/]<br>
 
 - ⚡ Fun fact **I am somewhat naughty 😊**
 
