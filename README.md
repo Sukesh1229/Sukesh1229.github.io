@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>Sukesh</title>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **ReactJs andMySQL**
 
-- 📫 How to reach me **sukeshkumarsuki@gmail.com**
+- 📫 How to reach me **sukeshkumarsukii@gmail.com**
 
 - 📄 Know about my experiences [https://purple-estel-4.tiiny.site/](https://purple-estel-4.tiiny.site/)
 
