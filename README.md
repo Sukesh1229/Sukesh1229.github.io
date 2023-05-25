@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>Sukesh</title>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
