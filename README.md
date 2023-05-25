@@ -1,7 +1,7 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Sukesh</title>
+    <title>Document</title>
 </head>
 <body>
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
@@ -9,15 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukesh1229&label=Profile%20views&color=0e75b6&style=flat" alt="sukesh1229" /> </p>
 
-- 🔭 I’m currently working at **Octacomm Technologies as Frontend intern.**<br>
+- 🔭 I’m currently working at **Octacomm Technologies as Frontend intern.**
 
 - 🌱 I’m currently learning **ReactJs andMySQL**<br>
 
-- 📫 How to reach me **sukeshkumarsukii@gmail.com**<br>
+- 📫 How to reach me **sukeshkumarsuki@gmail.com**<br>
 
 - 📄 Know about my experiences [https://purple-estel-4.tiiny.site/](https://purple-estel-4.tiiny.site/)<br>
 
-- ⚡ Fun fact **I am somewhat naughty 😊**<br>
+- ⚡ Fun fact **I am somewhat naughty 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
