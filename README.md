@@ -1,8 +1,11 @@
+
 <html lang="en">
 <head>
-    <title>Document</title>
+    <title>Sukesh</title>
 </head>
 <body>
+    theme:jekyll-theme-architect
+    <link rel="stylesheets" remote_theme="Dinky">
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
 <h3 align="center">A passionate and enthusiastic Frontend developer with good googling skills.</h3>
 
