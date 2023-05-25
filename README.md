@@ -1,11 +1,8 @@
-
 <html lang="en">
 <head>
-    <title>Sukesh</title>
+    <title>Document</title>
 </head>
 <body>
-    theme:jekyll-theme-architect
-    <link rel="stylesheets" remote_theme="Dinky">
     <h1 align="center">Hi 👋, I'm Eddagiri Sukesh Kumar</h1>
 <h3 align="center">A passionate and enthusiastic Frontend developer with good googling skills.</h3>
 
@@ -17,7 +14,7 @@
 
 - 📫 How to reach me **sukeshkumarsuki@gmail.com**<br>
 
-- 📄 Know about my experiences  https://purple-estel-4.tiiny.site/<br>
+- 📄 Know about my experiences https://purple-estel-4.tiiny.site/<br>
 
 - ⚡ Fun fact **I am somewhat naughty 😊**
 
